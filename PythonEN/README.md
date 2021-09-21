@@ -1,25 +1,22 @@
 # Tick_Tack_Toe
-Tick_Tack_Toe žaidimas padarytas su PyAutoGUI.<br/>
-Čia buvo mano trečia Python programa. <br/>
-Galima žaisti vienas prieš vieną ir žmogus prieš kompiuterį.<br/><br/>
+Simple Tick_Tack_Toe game made with PyAutoGUI framework.<br/>
+This was my third program with python. You can play against a computer or against your friends on the same pc.<br/>
+It has some minor bugs but it works well.<br/>
 
 # Kartuvės
-Paprastos kartuvės padarytos naudojant PyAutoGUI.<br/>
-Čia buvo mano ketvirta Python programa. <br/>
-Programa atrenka atsitiktinį žodį ir jums reikia jį atspėti.<br/>
-Dariau šią programą, kad išmokčiau, kaip reikia dinamiškai keisti nuotraukas lange ir kaip geriau manipuliuoti tekstu lenguose.<br/><br/>
+Again this is a simple PyAutoGUI game of a hangman.<br/>
+This app takes a random word from a list(Lithuanian) and asks a player to guess it.<br/>
+The only reason I made this app is that I wanted to learn how to dynamically change pictures in a window and how to manipulate text in a window.<br/>
 
 # Kalėdinės kortelės WEB
-Šios programos dar nebaigiau, bet ji tikrai yra didžiausia ką esu daręs praktiškai nuo 0. Šį kodą rašiau 5-6 dienas ir prieš tai nebuvau dirbęs su django frameworku ar html.<br/><br/>
-Idėja buvo tokia: mes šeimoje dažnai keičiamės dovanomis per Kalėdas tačiau dėl karatino praėjusias Kalėdas to padaryti nepavyko. Todėl nusprendžiau padaryti kokią nors žmonių atrinkimo programėlę kur galėtume visi prisijungti ir išsirinkti kam pirkti dovanas. 
-Kaip minėjau kodas nebaigtas ir nėra komentarų, bet nenorėjau jų pridėti vien tik tam, kad kodas atrodytų „gražiau“ noriu, kad matytumėt kodo tvarka tokia kokia ji yra išties.
+I haven't finished this app but it is my first attempt at making a web application.<br/>
+It is made using Django framework.<br/>
+The idea was that during the normal Christmas my family and I would exchange presents(we would do a secret Santa) but now because of quarantine, we couldn't do it normally<br/> so I made this web application where it would automatically sort all people and assign them pairs. It also has an "Admin page with password: raktas123" where you can add, remove people.<br/>
+<br/>
+Most of the Python code is in -> "\Kalėdines kortelės WEB\KaleduKorteles\main\views.py"<br/>
+Most of the HTML code is in -> "\Kalėdines kortelės WEB\KaleduKorteles\main\templates\main"<br/>
+<br/>
+If you don't know Djnago, to start a webserver so see this page you need to download this repository go to „C:_____\Kalėdines kortelės WEB\KaleduKorteles“<br/>
+open up cmd.exe in this folder and type in „python manage.py runserver“ then in your web browser enter the IP that you will see in the cmd window(https://).<br/>
 
-Pagrindinis python kodas -> "\Kalėdines kortelčs WEB\KaleduKorteles\main\views.py"<br/>
-Visi html failai -> "\Kalėdines kortelčs WEB\KaleduKorteles\main\templates\main"<br/>
-
-Norint įjungti puslapį reikia per cmd.exe atsidaryti „C:_____\Kalėdines kortelčs WEB\KaleduKorteles“ ir parašyti „python manage.py runserver“ tuomet prisijungti prie adreso kurį matysite lange (https://). 
-
-<br/><br/><br/>
-*Visus failus palikau taip, kaip buvau parašęs originaliai.*<br/>
-*Programas rašiau per „Visual Studio Code“.*<br/>
 
