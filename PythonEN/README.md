@@ -11,7 +11,7 @@ The only reason I made this app is that I wanted to learn how to dynamically cha
 # Kalėdinės kortelės WEB
 I haven't finished this app but it is my first attempt at making a web application.<br/>
 It is made using Django framework.<br/>
-The idea was that during the normal Christmas my family and I would exchange presents(we would do a secret Santa) but now because of quarantine, we couldn't do it normally<br/> so I made this web application where it would automatically sort all people and assign them pairs. It also has an "Admin page with password: raktas123" where you can add, remove people.<br/>
+The idea was that during the normal Christmas my family and I would exchange presents(we would do a secret Santa) but now because of quarantine, we couldn't do it normally<br/> so I made this web application where it would automatically sort all people and assign them pairs. It also has an "Admin page with password: raktas123" where you can add, remove people. It also uses a database file for saving people.<br/>
 <br/>
 Most of the Python code is in -> "\Kalėdines kortelės WEB\KaleduKorteles\main\views.py"<br/>
 Most of the HTML code is in -> "\Kalėdines kortelės WEB\KaleduKorteles\main\templates\main"<br/>
