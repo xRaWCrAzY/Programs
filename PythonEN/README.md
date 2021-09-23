@@ -1,10 +1,10 @@
 # Tick_Tack_Toe
-Simple Tick_Tack_Toe game made with PyAutoGUI framework.<br/>
+Simple Tick_Tack_Toe game made with PySimpleGui framework.<br/>
 This was my third program with python. You can play against a computer or against your friends on the same pc.<br/>
 It has some minor bugs but it works well.<br/>
 
 # Kartuvės
-Again this is a simple PyAutoGUI game of a hangman.<br/>
+Again this is a simple PySimpleGui game of a hangman.<br/>
 This app takes a random word from a list(Lithuanian) and asks a player to guess it.<br/>
 The only reason I made this app is that I wanted to learn how to dynamically change pictures in a window and how to manipulate text in a window.<br/>
 
